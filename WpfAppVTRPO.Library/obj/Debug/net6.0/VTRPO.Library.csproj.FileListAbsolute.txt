@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\bin\Debug\net6.0\VTRPO.Library.deps.json
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\bin\Debug\net6.0\VTRPO.Library.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\bin\Debug\net6.0\VTRPO.Library.pdb
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.AssemblyInfo.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\refint\VTRPO.Library.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.pdb
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\ref\VTRPO.Library.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Library\bin\Debug\net6.0\VTRPO.Library.deps.json
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Library\bin\Debug\net6.0\VTRPO.Library.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Library\bin\Debug\net6.0\VTRPO.Library.pdb
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.AssemblyInfoInputs.cache
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.AssemblyInfo.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.csproj.CoreCompileInputs.cache
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\refint\VTRPO.Library.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\VTRPO.Library.pdb
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\ref\VTRPO.Library.dll

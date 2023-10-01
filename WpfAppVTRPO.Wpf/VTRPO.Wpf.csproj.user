@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\Bond\BondPriceView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BondView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Bond\CuponIncomeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Bond\CuponView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Forward\CurrenciesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\DiagramView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Bond\DiscountView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EntryView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ForwardView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Bond\MacaulayDurationEffectivView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Bond\MacaulayDurationModificirView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Bond\MacaulayDurationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Precent\ManyYersView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Precent\MultipleYersView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Precent\OneYersView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PrecentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Forward\ProductView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Precent\СontinuousView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\Bond\BondPriceView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BondView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Bond\CuponIncomeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Bond\CuponView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Forward\CurrenciesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DiagramView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Bond\DiscountView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EntryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ForwardView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Bond\MacaulayDurationEffectivView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Bond\MacaulayDurationModificirView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Bond\MacaulayDurationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Precent\ManyYersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Precent\MultipleYersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Precent\OneYersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PrecentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Forward\ProductView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Precent\СontinuousView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

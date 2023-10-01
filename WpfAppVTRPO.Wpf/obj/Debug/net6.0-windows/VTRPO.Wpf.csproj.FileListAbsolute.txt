@@ -1,0 +1,254 @@
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\BondView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\BondPriceView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\CuponView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\DiscountView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationEffectivView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationModificirView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\DiagramView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\EntryView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\ForwardView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Forward\CurrenciesView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Forward\ProductView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\PrecentView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\ManyYersView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\MultipleYersView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\OneYersView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\СontinuousView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf_MarkupCompile.cache
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf_MarkupCompile.lref
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\BondView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\BondPriceView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\CuponView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\DiscountView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationEffectivView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationModificirView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\DiagramView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\EntryView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\ForwardView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Forward\CurrenciesView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Forward\ProductView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\PrecentView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\ManyYersView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\MultipleYersView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\OneYersView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\СontinuousView.baml
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\refint\VTRPO.Wpf.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.pdb
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Wpf.exe
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Report\Forward.frx
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Wpf.deps.json
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Wpf.runtimeconfig.json
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Wpf.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Wpf.pdb
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\FastReport.Compat.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\FastReport.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\FastReport.OpenSource.Export.PdfSimple.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.Core.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.Data.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.KMeansClustering.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.PCA.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.StandardTrainers.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.Transforms.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.CpuMath.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.DataView.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\win-x64\native\LdaNative.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\win-x86\native\LdaNative.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Library.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Library.pdb
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.g.resources
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.AssemblyInfo.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.csproj.CopyComplete
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.genruntimeconfig.cache
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\ref\VTRPO.Wpf.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\CuponIncomeView.g.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\CuponIncomeView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Wpf.exe
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Report\Forward.frx
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Wpf.deps.json
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Wpf.runtimeconfig.json
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Wpf.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Wpf.pdb
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\FastReport.Compat.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\FastReport.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\FastReport.OpenSource.Export.PdfSimple.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.Core.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.Data.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.KMeansClustering.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.PCA.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.StandardTrainers.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.Transforms.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.CpuMath.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Microsoft.ML.DataView.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\win-x64\native\LdaNative.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\runtimes\win-x86\native\LdaNative.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Library.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\bin\Debug\net6.0-windows\VTRPO.Library.pdb
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.csproj.AssemblyReference.cache
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\BondView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\BondPriceView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\CuponIncomeView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\CuponView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\DiscountView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationEffectivView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationModificirView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\DiagramView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\EntryView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\ForwardView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Forward\CurrenciesView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Forward\ProductView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\PrecentView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\ManyYersView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\MultipleYersView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\OneYersView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\СontinuousView.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf_MarkupCompile.cache
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf_MarkupCompile.lref
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\BondView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\BondPriceView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\CuponIncomeView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\CuponView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\DiscountView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationEffectivView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationModificirView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Bond\MacaulayDurationView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\DiagramView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\EntryView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\ForwardView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Forward\CurrenciesView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Forward\ProductView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\PrecentView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\ManyYersView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\MultipleYersView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\OneYersView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\Views\Precent\СontinuousView.baml
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.g.resources
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.AssemblyInfoInputs.cache
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.AssemblyInfo.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.csproj.CopyComplete
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\refint\VTRPO.Wpf.dll
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.pdb
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\VTRPO.Wpf.genruntimeconfig.cache
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\ref\VTRPO.Wpf.dll

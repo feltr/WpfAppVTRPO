@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="VTRPO.Wpf.Views.Forward.ProductView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:VTRPO.Wpf.Views.Forward"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="цена спот валюты"/>
+            <TextBox x:Name="TextBox_SProduct" Width="100" Text="{Binding S, UpdateSourceTrigger=LostFocus}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="ставка без риска, той валюты которая бы конвертировалась"/>
+            <TextBox x:Name="TextBox_rProduct" Width="100" Text="{Binding r, UpdateSourceTrigger=LostFocus }"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="период времени до истечения контракта"/>
+            <TextBox x:Name="TextBox_TProduct" Width="100" Text="{Binding Time, UpdateSourceTrigger=LostFocus }"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="количество дней в году"/>
+            <TextBox x:Name="TextBox_dayVProduct" Width="100" Text="{Binding dayV, UpdateSourceTrigger=LostFocus }"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="расходы по хранения и страхованию за период"/>
+            <TextBox x:Name="TextBox_ZProduct" Width="100" Text="{Binding Z, UpdateSourceTrigger=LostFocus }"/>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAppFinance/1.0.0": {
+        "dependencies": {
+          "WpfAppVTRPO.Library": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppFinance.dll": {}
+        }
+      },
+      "WpfAppVTRPO.Library/1.0.0": {
+        "runtime": {
+          "WpfAppVTRPO.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppFinance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WpfAppVTRPO.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

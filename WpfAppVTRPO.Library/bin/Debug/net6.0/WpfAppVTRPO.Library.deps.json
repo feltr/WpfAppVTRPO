@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WpfAppVTRPO.Library/1.0.0": {
+        "runtime": {
+          "WpfAppVTRPO.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfAppVTRPO.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="VTRPO.Wpf.Views.Bond.MacaulayDurationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:VTRPO.Wpf.Views.Bond"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="текущая цена облигации"/>
+            <TextBox Width="100" Text="{Binding P, UpdateSourceTrigger=LostFocus}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="размер купонной выплаты"/>
+            <TextBox Width="100" Text="{Binding C, UpdateSourceTrigger=LostFocus}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="доходность облигации"/>
+            <TextBox Width="100" Text="{Binding y, UpdateSourceTrigger=LostFocus}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="общее число купонов"/>
+            <TextBox Width="100" Text="{Binding n, UpdateSourceTrigger=LostFocus}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="номинал облигации"/>
+            <TextBox Width="100" Text="{Binding M, UpdateSourceTrigger=LostFocus}"/>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

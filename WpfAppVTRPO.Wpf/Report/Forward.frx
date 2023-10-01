@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="06/09/2023 22:59:47" ReportInfo.Modified="06/19/2023 21:05:04" ReportInfo.CreatorVersion="2023.2.0.0">
+  <Dictionary>
+    <BusinessObjectDataSource Name="Currencies" ReferenceName="Currencies" DataType="System.Int32" Enabled="true">
+      <Column Name="S" DataType="System.Double"/>
+      <Column Name="r" DataType="System.Double"/>
+      <Column Name="rf" DataType="System.Double"/>
+      <Column Name="Time" DataType="System.Double"/>
+      <Column Name="dayV" DataType="System.Double"/>
+      <Column Name="Result" DataType="System.Double"/>
+    </BusinessObjectDataSource>
+    <BusinessObjectDataSource Name="Products" ReferenceName="Products" DataType="System.Int32" Enabled="true">
+      <Column Name="S" DataType="System.Double"/>
+      <Column Name="r" DataType="System.Double"/>
+      <Column Name="Time" DataType="System.Double"/>
+      <Column Name="dayV" DataType="System.Double"/>
+      <Column Name="Z" DataType="System.Double"/>
+      <Column Name="Result" DataType="System.Double"/>
+    </BusinessObjectDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="37.8"/>
+    <PageHeaderBand Name="PageHeader1" Top="41.8" Width="718.2" Height="18.9">
+      <TextObject Name="Text27" Width="378" Height="18.9" Text="Рассчет форвардной цены валюты и товара" Font="Arial, 12pt, style=Bold"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="64.7" Width="718.2" Height="47.25">
+      <TextObject Name="Text1" Width="94.5" Height="18.9" Text="Валюта" Font="Arial, 10pt"/>
+      <SubreportObject Name="Subreport1" Top="28.35" Width="94.5" Height="18.9" ReportPage="Page2"/>
+    </DataBand>
+    <DataBand Name="Data4" Top="115.95" Width="718.2" Height="47.25">
+      <SubreportObject Name="Subreport2" Top="28.35" Width="94.5" Height="18.9" ReportPage="Page3"/>
+      <TextObject Name="Text2" Width="94.5" Height="18.9" Text="Продукт" Font="Arial, 10pt"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="167.2" Width="718.2" Height="18.9"/>
+  </ReportPage>
+  <ReportPage Name="Page2" Watermark.Font="Arial, 60pt">
+    <DataBand Name="Data2" Top="22.9" Width="718.2" Height="18.9" DataSource="Currencies">
+      <TextObject Name="Text6" Width="94.5" Height="18.9" Text="[Currencies.S]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text8" Left="94.5" Width="94.5" Height="18.9" Text="[Currencies.r]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text10" Left="189" Width="94.5" Height="18.9" Text="[Currencies.rf]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text12" Left="283.5" Width="94.5" Height="18.9" Text="[Currencies.Time]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text14" Left="378" Width="94.5" Height="18.9" Text="[Currencies.dayV]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text16" Left="472.5" Width="94.5" Height="18.9" Fill.Color="Chartreuse" Text="[Currencies.Result]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <LineObject Name="Line27" Width="567"/>
+      <LineObject Name="Line28" Left="567" Top="18.9" Width="-567"/>
+      <LineObject Name="Line29" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line30" Left="94.5" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line31" Left="189" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line32" Left="283.5" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line33" Left="378" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line34" Left="472.5" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line35" Left="567" Top="18.9" Height="-18.9"/>
+      <DataHeaderBand Name="DataHeader1" Width="718.2" Height="18.9">
+        <TextObject Name="Text7" Width="94.5" Height="18.9" Text="S" Font="Arial, 10pt"/>
+        <TextObject Name="Text9" Left="94.5" Width="94.5" Height="18.9" Text="r" Font="Arial, 10pt"/>
+        <TextObject Name="Text11" Left="189" Width="94.5" Height="18.9" Text="rf" Font="Arial, 10pt"/>
+        <TextObject Name="Text13" Left="283.5" Width="94.5" Height="18.9" Text="Time" Font="Arial, 10pt"/>
+        <TextObject Name="Text15" Left="378" Width="94.5" Height="18.9" Text="dayV" Font="Arial, 10pt"/>
+        <TextObject Name="Text17" Left="472.5" Width="94.5" Height="18.9" Text="Result" Font="Arial, 10pt"/>
+        <LineObject Name="Line19" Width="567"/>
+        <LineObject Name="Line20" Left="567" Height="18.9"/>
+        <LineObject Name="Line21" Left="567" Top="18.9" Width="-567"/>
+        <LineObject Name="Line22" Top="18.9" Height="-18.9"/>
+        <LineObject Name="Line23" Left="94.5" Height="18.9"/>
+        <LineObject Name="Line24" Left="189" Height="18.9"/>
+        <LineObject Name="Line25" Left="283.5" Height="18.9"/>
+        <LineObject Name="Line26" Left="378" Height="18.9"/>
+        <LineObject Name="Line38" Left="472.5" Height="18.9"/>
+      </DataHeaderBand>
+    </DataBand>
+  </ReportPage>
+  <ReportPage Name="Page3" Watermark.Font="Arial, 60pt">
+    <DataBand Name="Data3" Top="22.9" Width="718.2" Height="18.9" DataSource="Products">
+      <TextObject Name="Text18" Width="94.5" Height="18.9" Text="[Products.S]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text19" Left="94.5" Width="94.5" Height="18.9" Text="[Products.r]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text20" Left="189" Width="94.5" Height="18.9" Text="[Products.Time]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text21" Left="283.5" Width="94.5" Height="18.9" Text="[Products.dayV]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text23" Left="378" Width="94.5" Height="18.9" Text="[Products.Z]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text25" Left="472.5" Width="94.5" Height="18.9" Fill.Color="Chartreuse" Text="[Products.Result]" Format="Number" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <LineObject Name="Line1" Width="567"/>
+      <LineObject Name="Line3" Top="18.9" Width="567"/>
+      <LineObject Name="Line5" Left="472.5" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line6" Left="378" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line7" Left="283.5" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line8" Left="189" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line9" Left="94.5" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line36" Top="18.9" Height="-18.9"/>
+      <LineObject Name="Line37" Left="567" Top="18.9" Height="-18.9"/>
+      <DataHeaderBand Name="DataHeader2" Width="718.2" Height="18.9">
+        <TextObject Name="Text3" Width="94.5" Height="18.9" Text="S" Font="Arial, 10pt"/>
+        <TextObject Name="Text4" Left="94.5" Width="94.5" Height="18.9" Text="r" Font="Arial, 10pt"/>
+        <TextObject Name="Text5" Left="189" Width="94.5" Height="18.9" Text="Time" Font="Arial, 10pt"/>
+        <TextObject Name="Text22" Left="283.5" Width="94.5" Height="18.9" Text="dayV" Font="Arial, 10pt"/>
+        <TextObject Name="Text24" Left="378" Width="94.5" Height="18.9" Text="Z" Font="Arial, 10pt"/>
+        <TextObject Name="Text26" Left="472.5" Width="94.5" Height="18.9" Text="Result" Font="Arial, 10pt"/>
+        <LineObject Name="Line10" Top="18.9" Width="567"/>
+        <LineObject Name="Line11" Left="567" Top="18.9" Height="-18.9"/>
+        <LineObject Name="Line12" Left="567" Width="-567"/>
+        <LineObject Name="Line13" Height="18.9"/>
+        <LineObject Name="Line14" Left="94.5" Height="18.9"/>
+        <LineObject Name="Line15" Left="189" Height="18.9"/>
+        <LineObject Name="Line16" Left="283.5" Height="18.9"/>
+        <LineObject Name="Line17" Left="378" Height="18.9"/>
+        <LineObject Name="Line18" Left="472.5" Height="18.9"/>
+      </DataHeaderBand>
+    </DataBand>
+  </ReportPage>
+</Report>

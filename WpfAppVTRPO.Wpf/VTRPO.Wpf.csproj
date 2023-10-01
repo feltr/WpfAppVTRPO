@@ -1,0 +1,29 @@
+﻿    <Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="asset_blockchain_picture_hand_handhold_art_digital_nft_icon_251740.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FastReport.Compat" Version="2023.1.8" />
+    <PackageReference Include="FastReport.OpenSource.Export.PdfSimple" Version="2023.2.17" />
+    <PackageReference Include="LiveCharts.Core" Version="0.9.8" />
+    <PackageReference Include="LiveCharts.Wpf.Core" Version="0.9.8" />
+    <PackageReference Include="Microsoft.ML" Version="1.7.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WpfAppVTRPO.Library\VTRPO.Library.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\FinPng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Report\Forward.frx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

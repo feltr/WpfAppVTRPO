@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="VTRPO.Wpf.Views.DiagramView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:VTRPO.Wpf.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf">
+    <Grid>
+        <lvc:PieChart x:Name="pieChart" LegendLocation="Right" DataClickCommand="{Binding PieClickCommand}" Hoverable="False" DataTooltip="{x:Null}" Margin="0,38,0,0">
+
+            <lvc:PieChart.Series>
+                <lvc:PieSeries x:Name="serDeposit" Title="Депозит" Values="{Binding PointDeposit}" DataLabels="True"
+                               Foreground="Black" />
+                <lvc:PieSeries x:Name="serPrecentEasy"  Title="Простой процент" Values="{Binding PointEasy}" DataLabels="True" 
+                               Foreground="Black"/>
+                <lvc:PieSeries x:Name="serPrecentHard"  Title="Сложный процент" Values="{Binding PointHard}" DataLabels="True"
+                               Foreground="Black" />
+            </lvc:PieChart.Series>
+        </lvc:PieChart>
+        <Label Content="Диаграмма будущих процентов" FontSize="14" HorizontalAlignment="Center"  VerticalAlignment="Top" Width="240" Height="32" FontWeight="Bold" FontStyle="Italic"/>
+        <Button Content="Выйти" Margin="0,380,600,0" FontSize="20" Command="{Binding ExitCommand}"/>
+    </Grid>
+</UserControl>

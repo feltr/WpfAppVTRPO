@@ -1,0 +1,20 @@
+﻿VTRPO.Wpf
+
+
+winexe
+C#
+.cs
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\obj\Debug\net6.0-windows\
+VTRPO.Wpf
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\dn_fe\OneDrive\Рабочий стол\WpfAppVTRPO\WpfAppVTRPO.Wpf\App.xaml
+19-605171302
+
+49484592004
+2211747858092
+MainWindow.xaml;Views\BondView.xaml;Views\Bond\BondPriceView.xaml;Views\Bond\CuponIncomeView.xaml;Views\Bond\CuponView.xaml;Views\Bond\DiscountView.xaml;Views\Bond\MacaulayDurationEffectivView.xaml;Views\Bond\MacaulayDurationModificirView.xaml;Views\Bond\MacaulayDurationView.xaml;Views\DiagramView.xaml;Views\EntryView.xaml;Views\ForwardView.xaml;Views\Forward\CurrenciesView.xaml;Views\Forward\ProductView.xaml;Views\PrecentView.xaml;Views\Precent\ManyYersView.xaml;Views\Precent\MultipleYersView.xaml;Views\Precent\OneYersView.xaml;Views\Precent\СontinuousView.xaml;
+
+False
+

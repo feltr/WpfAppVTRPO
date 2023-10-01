@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\bin\Debug\net6.0\WpfAppVTRPO.Library.deps.json
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\bin\Debug\net6.0\WpfAppVTRPO.Library.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\bin\Debug\net6.0\WpfAppVTRPO.Library.pdb
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\WpfAppVTRPO.Library.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\WpfAppVTRPO.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\WpfAppVTRPO.Library.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\WpfAppVTRPO.Library.AssemblyInfo.cs
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\WpfAppVTRPO.Library.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\WpfAppVTRPO.Library.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\refint\WpfAppVTRPO.Library.dll
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\WpfAppVTRPO.Library.pdb
+C:\Users\User\source\repos\WpfAppVTRPO\WpfAppVTRPO.Library\obj\Debug\net6.0\ref\WpfAppVTRPO.Library.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OGVPw7COpmxpq36/qdioCOyfHEx7IkLkHHkw5C8MALnqOPYLzuGVMGjsrzjrILRBqeIkw/1TX+oAsbG3bfzlhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\WpfAppVTRPO\\WapProjTemplate1\\WapProjTemplate1.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512"
+  ],
+  "logs": []
+}

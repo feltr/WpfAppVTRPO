@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "VTRPO.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VTRPO.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VTRPO.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VTRPO.Library/1.0.0": {
+      "type": "project",
+      "path": "../WpfAppVTRPO.Library/VTRPO.Library.csproj",
+      "msbuildProject": "../WpfAppVTRPO.Library/VTRPO.Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "VTRPO.Library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dn_fe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dn_fe\\OneDrive\\Рабочий стол\\WpfAppVTRPO\\ConsoleAppFinance\\VTRPO.Console.csproj",
+      "projectName": "VTRPO.Console",
+      "projectPath": "C:\\Users\\dn_fe\\OneDrive\\Рабочий стол\\WpfAppVTRPO\\ConsoleAppFinance\\VTRPO.Console.csproj",
+      "packagesPath": "C:\\Users\\dn_fe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dn_fe\\OneDrive\\Рабочий стол\\WpfAppVTRPO\\ConsoleAppFinance\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\dn_fe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\dn_fe\\OneDrive\\Рабочий стол\\WpfAppVTRPO\\WpfAppVTRPO.Library\\VTRPO.Library.csproj": {
+              "projectPath": "C:\\Users\\dn_fe\\OneDrive\\Рабочий стол\\WpfAppVTRPO\\WpfAppVTRPO.Library\\VTRPO.Library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.22, 6.0.22]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.22, 6.0.22]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.22, 6.0.22]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.22, 6.0.22]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
